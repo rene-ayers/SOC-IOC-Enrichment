@@ -1,0 +1,3 @@
+Original_IP,Defanged_IP,Abuse_Score,Country,ISP,Total_Reports
+8.8.8.8,8[.]8[.]8[.]8,0,US,Google LLC,30
+1.1.1.1,1[.]1[.]1[.]1,0,AU,APNIC and Cloudflare DNS Resolver project,112
